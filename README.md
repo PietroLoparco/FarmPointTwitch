@@ -14,4 +14,4 @@ BUTTON_CHEST = '#live-page-chat > div > div > div > div > div > section > div > 
 ```
 - Run the bot with: ```py index.py```
 
-# For every bug/problem or new feautures open a new issue
+## For every bug/problem or new feautures open a new issue
